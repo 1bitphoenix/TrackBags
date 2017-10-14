@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/39f5bd7975371ca481775a81f015ad07b5b202b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="/home/harshit/Desktop/android_project/EventNotifierProject/TrackBag/app/build/intermediates/pre-dexed/debug/classes_3823f0398be2f8fc7d9145b368927fe82727deaf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/harshit/.android/build-cache/39f5bd7975371ca481775a81f015ad07b5b202b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="/home/harshit/Desktop/android_project/EventNotifierProject/TrackBag/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3823f0398be2f8fc7d9145b368927fe82727deaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/harshit/Desktop/android_project/EventNotifierProject/TrackBag/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/harshit/Desktop/android_project/EventNotifierProject/TrackBag/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3a0e713992e0ea31059ccc106501baf6fd5fcd46/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/harshit/Desktop/android_project/EventNotifierProject/TrackBag/app/build/intermediates/pre-dexed/debug/core-3.2.1_1a64b7dc8fa922d9402fff369941ed62eba259b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/harshit/Desktop/android_project/EventNotifierProject/TrackBag/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec4b27040f35bd4907353998581ad9e124cc1b24">
+        <dex dex="/home/harshit/Desktop/android_project/EventNotifierProject/TrackBag/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e8b79b6b76bf938f813c244f15c7d960dd616945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/harshit/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/harshit/Desktop/android_project/EventNotifierProject/TrackBag/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_1a64b7dc8fa922d9402fff369941ed62eba259b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/harshit/.android/build-cache/e5037d923abdf91273b38feb61b1a8aa47c06207/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="/home/harshit/Desktop/android_project/EventNotifierProject/TrackBag/app/build/intermediates/pre-dexed/debug/classes_2460fab4b678c2cb8e1e71c5bf3aebb28c48577c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/harshit/.android/build-cache/e5037d923abdf91273b38feb61b1a8aa47c06207/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="/home/harshit/Desktop/android_project/EventNotifierProject/TrackBag/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2460fab4b678c2cb8e1e71c5bf3aebb28c48577c/classes.dex" />
+    </item>
+
+</items>
